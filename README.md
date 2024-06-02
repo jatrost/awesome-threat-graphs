@@ -6,6 +6,8 @@ A collection of resources for building and using threat graphs
 
 *WORK IN PROGRESS, esp categories*
 
+# Tools
+
 ## AWS
 
 * https://github.com/nccgroup/PMapper
@@ -34,12 +36,20 @@ A collection of resources for building and using threat graphs
 
 * https://github.com/DataDog/KubeHound
 * https://github.com/wiz-sec-public/namespacehound/
+* https://github.com/deepfence/ThreatMapper
 
 ## Active Directory
 
 * https://github.com/BloodHoundAD/BloodHound
 * https://github.com/lkarlslund/adalanche
 * https://github.com/vysecurity/ANGRYPUPPY
+
+## Threat Modeling
+
+* https://github.com/OWASP/threat-dragon
+* https://github.com/Threagile/threagile
+
+# Content
 
 ## Presentations
 
