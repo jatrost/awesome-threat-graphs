@@ -2,8 +2,7 @@
 
 A collection of resources for building and using threat graphs 
 
-![image](https://github.com/jatrost/awesome-threat-graphs/assets/820464/9862e2a3-71fb-49df-a260-9ab610a1f318)
-ref: https://x.com/JohnLaTwC/status/1059841882086232065
+[![image](https://github.com/jatrost/awesome-threat-graphs/assets/820464/9862e2a3-71fb-49df-a260-9ab610a1f318)](https://x.com/JohnLaTwC/status/1059841882086232065)
 
 *WORK IN PROGRESS, esp categories*
 
